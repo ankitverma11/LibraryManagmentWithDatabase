@@ -1,0 +1,11 @@
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\bin\Release\netcoreapp2.1\LibraryManagment.deps.json
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\bin\Release\netcoreapp2.1\LibraryManagment.runtimeconfig.json
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\bin\Release\netcoreapp2.1\LibraryManagment.runtimeconfig.dev.json
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\bin\Release\netcoreapp2.1\LibraryManagment.dll
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\bin\Release\netcoreapp2.1\LibraryManagment.pdb
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\obj\Release\netcoreapp2.1\LibraryManagment.csprojAssemblyReference.cache
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\obj\Release\netcoreapp2.1\LibraryManagment.csproj.CoreCompileInputs.cache
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\obj\Release\netcoreapp2.1\LibraryManagment.AssemblyInfoInputs.cache
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\obj\Release\netcoreapp2.1\LibraryManagment.AssemblyInfo.cs
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\obj\Release\netcoreapp2.1\LibraryManagment.dll
+E:\Ankit\WorkArea\LibraryManagment\LibraryManagment\obj\Release\netcoreapp2.1\LibraryManagment.pdb

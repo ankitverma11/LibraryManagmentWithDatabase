@@ -1,0 +1,11 @@
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\bin\Debug\netcoreapp2.1\LibraryManagment With DB.deps.json
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\bin\Debug\netcoreapp2.1\LibraryManagment With DB.runtimeconfig.json
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\bin\Debug\netcoreapp2.1\LibraryManagment With DB.runtimeconfig.dev.json
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\bin\Debug\netcoreapp2.1\LibraryManagment With DB.dll
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\bin\Debug\netcoreapp2.1\LibraryManagment With DB.pdb
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\obj\Debug\netcoreapp2.1\LibraryManagment With DB.csprojAssemblyReference.cache
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\obj\Debug\netcoreapp2.1\LibraryManagment With DB.csproj.CoreCompileInputs.cache
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\obj\Debug\netcoreapp2.1\LibraryManagment With DB.AssemblyInfoInputs.cache
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\obj\Debug\netcoreapp2.1\LibraryManagment With DB.AssemblyInfo.cs
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\obj\Debug\netcoreapp2.1\LibraryManagment With DB.dll
+E:\Ankit\LibraryManagmentWithDataBase\LibraryManagment\obj\Debug\netcoreapp2.1\LibraryManagment With DB.pdb
