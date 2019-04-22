@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LibraryManagment.Data.Model
 {
-    public class User
+    public class User_Demo
     {
         //[RegularExpression(@"[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}", ErrorMessage = "Please enter Valid Email ID")]
         // [Display(Name = "User Name")]

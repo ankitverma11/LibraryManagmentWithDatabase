@@ -10,9 +10,9 @@ namespace LibraryManagment.Controllers
     [Route("auth")]
     public class AuthController : Controller
     {
-        private readonly IUserService _userService;
+        private readonly IUserService_Demo _userService;
 
-        public AuthController(IUserService userService)
+        public AuthController(IUserService_Demo userService)
         {
             _userService = userService;
         }

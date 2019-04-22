@@ -38,6 +38,7 @@ namespace LibraryManagment.Controllers
             return View(HomeVm);
         }
 
+        [NonAction]
         public  ActionResult About()
         {
             return View();
